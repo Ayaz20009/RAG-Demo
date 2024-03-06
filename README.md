@@ -11,11 +11,16 @@ Before you begin, ensure you have the necessary permissions and keys:
 
 Installation
 Clone this repository to your local machine using Git:
-
+```
 git clone https://github.com/Ayaz20009/RAG-Demo.git
+```
+```
 cd RAG-Demo
+```
 Install the required dependencies (if applicable):
+```
 pip install -r requirements.txt
+```
 
 Running the Project
 To run the project, follow these steps:
