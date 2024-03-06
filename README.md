@@ -24,9 +24,7 @@ pip install -r requirements.txt
 
 Running the Project
 To run the project, follow these steps:
-```
-pip install notebook
-```
+
 ```
 jupyter notebook
 ```
