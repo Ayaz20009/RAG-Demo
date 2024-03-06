@@ -5,3 +5,4 @@ pypdf
 openai
 ipywidgets
 RISE
+notebook
