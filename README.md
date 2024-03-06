@@ -5,12 +5,11 @@ Welcome to Building a chatbot with MongoDB for GenAI! This guide will help you s
 Getting Started
 Before you begin, ensure you have the necessary permissions and keys:
 
-## An Atlas cluster URI with read/write permissions.
-## An OpenAI API key for creating embeddings and posing questions to a large language model (LLM).
-## Jupter Notebook
+1. An Atlas cluster URI with read/write permissions.
+2. An OpenAI API key for creating embeddings and posing questions to a large language model (LLM).
 
 Installation
-Clone this repository to your local machine using Git:
+Open terminal. Clone this repository to your local machine using Git:
 ```
 git clone https://github.com/Ayaz20009/RAG-Demo.git
 ```
